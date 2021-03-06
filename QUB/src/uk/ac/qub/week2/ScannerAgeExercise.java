@@ -15,7 +15,7 @@ import java.util.Scanner;
 public class ScannerAgeExercise {
 
 	/**
-	 * Method reads in the user'e age and determines whether they are
+	 * Method reads in the user's age and determines whether they are
 	 * old enough to vote
 	 * @param args
 	 */
